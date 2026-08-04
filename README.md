@@ -6,17 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 AIML Student at R.M.D Engineering College
-- 🌱 Currently learning Data Structures & Algorithms
-- ⚛️ Interested in Quantum Computing
-- 🔐 Cybersecurity Enthusiast
-- 💻 Learning C++ and Python
-- 🎯 Goal: Become a Software Engineer
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
