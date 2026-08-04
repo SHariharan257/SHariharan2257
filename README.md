@@ -26,24 +26,3 @@
 </p>
 
 ---
-
-## 🚀 Currently Working On
-
-- 📚 LeetCode DSA Practice
-- 🤖 AI & Machine Learning
-- ⚛️ Quantum Computing
-- 🔐 Cybersecurity Projects
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/SHariharan257">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ Thanks for visiting my profile!
