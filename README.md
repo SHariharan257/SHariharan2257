@@ -1,3 +1,4 @@
+# SHariharan257
 # Hi 👋 I'm Hariharan
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Learning+DSA;Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
